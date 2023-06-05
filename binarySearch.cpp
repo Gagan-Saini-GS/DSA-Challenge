@@ -2,9 +2,6 @@
 #include <vector>
 using namespace std;
 
-// Day 6
-// TC O(logN) and SC O(1)
-
 int search(vector<int> &arr, int k)
 {
     int n = arr.size();

@@ -2,8 +2,8 @@
 using namespace std;
 
 // Day 5
-// TC O(N) and SC O(1)
 
+// TC O(N) and SC O(1)
 bool isAnagram(string s, string t)
 {
     int n = s.size();
